@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Anmol+Sahota)](https://git.io/typing-svg)
+<h1 align="center">Hi 👋, I'm Anmol Sahota</h1>
+
 <h3 align="center">A passionate full-stack developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsahota&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsahota" /> </p>
