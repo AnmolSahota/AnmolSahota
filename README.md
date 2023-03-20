@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **redux**
 
-- 💬 Ask me about **HTML CSS Javascript React Redux Node-js**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **anmolsahota05760@gmail.com**
 
