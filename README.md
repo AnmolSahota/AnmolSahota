@@ -1,5 +1,5 @@
 
-  <img align="right" alt="GIF" style="border-radius:50%;" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="25%" width="25%">
+  <img align="right" alt="GIF" style="border-radius:50%;" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height="30%" width="30%">
 
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm Anmol Sahota !! -->
@@ -24,7 +24,7 @@
 
 
 [![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:anmolsahota05760@gmail.com)](mailto:anmolsahota05760@gmail.com)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-kumar-2125a91b0/)](https://www.linkedin.com/in/anmol-sahota-438456250/)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-sahota-438456250/)](https://www.linkedin.com/in/anmol-sahota-438456250/)&nbsp;
 <br/>
 
 
@@ -49,14 +49,14 @@
 ## Github Stats :
 <div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=VivekKumar2380&theme=onedark&column=3&margin-w=15&margin-h=15">
+<img src="https://github-profile-trophy.vercel.app/?username=AnmolSahota&theme=onedark&column=3&margin-w=15&margin-h=15">
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivekKumar2380&theme=tokyonight&count_private=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight&count_private=true)
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar2380&layout=compact&theme=tokyonight)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSahota&layout=compact&theme=tokyonight)
 
- ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=VivekKumar2380&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+ ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
 
 </div>
 
