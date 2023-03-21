@@ -15,7 +15,7 @@
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Mumbai, Maharashtra
 
-[![wakatime](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5/project/350c9bf2-3fed-411d-ac70-2dbf09a73aef.svg)](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5/project/350c9bf2-3fed-411d-ac70-2dbf09a73aef)
+[![wakatime](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6/project/3f3869e5-6fd4-4226-bc5e-a0a573c449a3.svg)](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6/project/3f3869e5-6fd4-4226-bc5e-a0a573c449a3)
 
 
 
