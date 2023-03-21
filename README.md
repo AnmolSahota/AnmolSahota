@@ -1,29 +1,66 @@
-<h1 align="center">Hi 👋, I'm Anmol Sahota</h1>
 
-<h3 align="center">A passionate full-stack developer</h3>
+  <img align="right" alt="GIF" style="border-radius:50%;" src="https://www.techbabble.zone/content/images/2021/07/46207-programmer-1.gif" height="25%" width="25%">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anmolsahota&label=Profile%20views&color=0e75b6&style=flat" alt="anmolsahota" /> </p>
+## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
+<!-- ## I'm Anmol Sahota !! -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Vivek+Kumar)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmolsahota" alt="anmolsahota" /></a> </p>
+## About Me :
 
-- 🌱 I’m currently learning **redux**
+- 🔭 Passionate Full Stack Developer dedicated to creating efficient, continually enhancing skills.
+- 🌱 Masai School is where I obtained my training.
+- 🛠  I'm always seeking opportunities to expand my horizons & learn about the world around me.
+- 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/1kj_kmwUkmxOHgX5sZpnpVfw2Ja0ImHZ-/view?usp=share_link">Resume</a>
+- 🖥️ My <a target="_blank" href="">Portfolio</a> showcases my skills and accomplishments.
+- ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
+- 🗺️ Mumbai, Maharashtra
 
-- 💬 Ask me about **MERN**
+[![wakatime](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5/project/350c9bf2-3fed-411d-ac70-2dbf09a73aef.svg)](https://wakatime.com/badge/user/20b1109d-5edf-4f57-a0a2-23242c53f1f5/project/350c9bf2-3fed-411d-ac70-2dbf09a73aef)
 
-- 📫 How to reach me **anmolsahota05760@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1kj_kmwUkmxOHgX5sZpnpVfw2Ja0ImHZ-/view?usp=share_link](https://drive.google.com/file/d/1kj_kmwUkmxOHgX5sZpnpVfw2Ja0ImHZ-/view?usp=share_link)
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/anmol-sahota-438456250/"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anmol sahota" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+## Connect with me :
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=anmolsahota&show_icons=true&locale=en&layout=compact" alt="anmolsahota" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmolsahota&show_icons=true&locale=en" alt="anmolsahota" /></p>
+[![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:vickykumar21121999@gmail.com)](mailto:anmolsahota05760@gmail.com)&nbsp;
+[![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-kumar-2125a91b0/)](https://www.linkedin.com/in/anmol-sahota-438456250/)&nbsp;
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmolsahota&" alt="anmolsahota" /></p>
+
+## 👨🏻‍💻 Mostly Used Languages, Frameworks :
+
+
+
+</img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img src="https://img.icons8.com/color/48/000000/git.png"/><br>
+<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;<img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+<br>
+<img height="30" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">&nbsp;<img height="30" src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"> 
+
+
+<br>
+
+## Visitors Count :
+
+![Count](https://profile-counter.glitch.me/VivekKumar2380/count.svg)
+
+
+
+## Github Stats :
+<div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=VivekKumar2380&theme=onedark&column=3&margin-w=15&margin-h=15">
+
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=VivekKumar2380&theme=tokyonight&count_private=true)
+
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VivekKumar2380&layout=compact&theme=tokyonight)
+
+ ![Vivek's github stats](https://github-readme-stats.vercel.app/api?username=VivekKumar2380&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+
+</div>
+
+
+
+
+
