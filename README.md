@@ -3,7 +3,7 @@
 
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm Anmol Sahota !! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Vivek+Kumar)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Anmol+Sahota)](https://git.io/typing-svg)
 
 ## About Me :
 
