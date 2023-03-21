@@ -23,7 +23,7 @@
 ## Connect with me :
 
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:vickykumar21121999@gmail.com)](mailto:anmolsahota05760@gmail.com)&nbsp;
+[![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:anmolsahota05760@gmail.com)](mailto:anmolsahota05760@gmail.com)&nbsp;
 [![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivek-kumar-2125a91b0/)](https://www.linkedin.com/in/anmol-sahota-438456250/)&nbsp;
 <br/>
 
@@ -42,7 +42,7 @@
 
 ## Visitors Count :
 
-![Count](https://profile-counter.glitch.me/VivekKumar2380/count.svg)
+![Count](https://profile-counter.glitch.me/AnmolSahota/count.svg)
 
 
 
