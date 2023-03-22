@@ -1,5 +1,8 @@
+<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
 
-  <img align="right" alt="GIF" style="border-radius:50%;" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height="30%" width="30%">
+
+
+<!--   <img align="right" alt="GIF" style="border-radius:50%;" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height="30%" width="30%"> -->
 
 ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm Anmol Sahota !! -->
