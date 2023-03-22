@@ -52,7 +52,7 @@
 ## Github Stats :
 <div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=AnmolSahota&theme=onedark&column=3&margin-w=15&margin-h=15">
+<!-- <img src="https://github-profile-trophy.vercel.app/?username=AnmolSahota&theme=onedark&column=3&margin-w=15&margin-h=15"> -->
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight&count_private=true)
