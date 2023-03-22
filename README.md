@@ -17,6 +17,7 @@
 - 🖥️ My <a target="_blank" href="">Portfolio</a> showcases my skills and accomplishments.
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Mumbai, Maharashtra
+- <a href="https://www.WordPress.com" target="_blank">WordPress Homepage</a>
 
 [![wakatime](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6/project/3f3869e5-6fd4-4226-bc5e-a0a573c449a3.svg)](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6/project/3f3869e5-6fd4-4226-bc5e-a0a573c449a3)
 
