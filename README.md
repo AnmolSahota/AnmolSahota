@@ -8,8 +8,8 @@
 <!-- ## I'm Anmol Sahota !! -->
 <!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Anmol+Sahota)](https://git.io/typing-svg) -->
 
- <h1 align="center">Hi 👋, I'm Anmol Sahota</h1>
-<h2><p align="center">
+ <h1 >Hi 👋, I'm Anmol Sahota</h1>
+<h2><p >
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
 </p>
  <br/></h2>
