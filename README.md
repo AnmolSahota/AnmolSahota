@@ -4,10 +4,15 @@
 
 <!--   <img align="right" alt="GIF" style="border-radius:50%;" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height="30%" width="30%"> -->
 
-## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
+<!-- ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
 <!-- ## I'm Anmol Sahota !! -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Anmol+Sahota)](https://git.io/typing-svg)
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Anmol+Sahota)](https://git.io/typing-svg) -->
 
+ <h1 align="center">Hi 👋, I'm Anmol Sahota</h1>
+<h2><p align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
+</p>
+ <br/></h2>
 ## About Me :
 
 - 🔭 Passionate Full Stack Developer dedicated to creating efficient, continually enhancing skills.
@@ -33,10 +38,9 @@
 
 
 
-</img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img src="https://img.icons8.com/color/48/000000/git.png"/><br>
+</img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;<img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
-<br>
-<img height="30" src="https://avatars.githubusercontent.com/u/54212428?s=280&v=4">&nbsp;<img height="30" src="https://miro.medium.com/max/512/1*9U1toerFxB8aiFRreLxEUQ.png"> 
+
 
 
 <br>
