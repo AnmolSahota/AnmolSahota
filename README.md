@@ -18,7 +18,6 @@
 - 🔭 Passionate Full Stack Developer dedicated to creating efficient, continually enhancing skills.
 - 🌱 Masai School is where I obtained my training.
 - 🛠  I'm always seeking opportunities to expand my horizons & learn about the world around me.
-- 🎓 Check out my <a target="_blank" href="https://drive.google.com/file/d/1kj_kmwUkmxOHgX5sZpnpVfw2Ja0ImHZ-/view?usp=share_link">Resume</a>
 - 🖥️ My <a target="_blank" href="https://anmolsahota.github.io/">Portfolio</a> showcases my skills and accomplishments.
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Mumbai, Maharashtra
