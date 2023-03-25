@@ -23,7 +23,7 @@
 - ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
 - 🗺️ Mumbai, Maharashtra
 
-
+[![wakatime](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6.svg)](https://wakatime.com/@d61fed7b-cf12-4374-b3fc-69813c1eaed6)
 
 
 ## Connect with me :
