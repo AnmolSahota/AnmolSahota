@@ -1,13 +1,5 @@
 <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
 
-
-
-<!--   <img align="right" alt="GIF" style="border-radius:50%;" src="https://media.tenor.com/flflC6GFzO8AAAAM/sultan-alrefaei-programmer.gif" height="30%" width="30%"> -->
-
-<!-- ## Hi there, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" height="4%" width="4%" >              
-<!-- ## I'm Anmol Sahota !! -->
-<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=27A100&width=435&height=28&lines=I+am+Anmol+Sahota)](https://git.io/typing-svg) -->
-
  <h1 >Hi 👋, I'm Anmol Sahota</h1>
 <h2><p >
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
@@ -56,11 +48,14 @@
 <!-- <img src="https://github-profile-trophy.vercel.app/?username=AnmolSahota&theme=onedark&column=3&margin-w=15&margin-h=15"> -->
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight&count_private=true)
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmolSahota&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AnmolSahota" /></p>
 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSahota&layout=compact&theme=tokyonight)
+<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight&count_private=true) -->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&locale=en&theme=tokyonight" alt="AnmolSahota" /></p>
 
- ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&hide_border=true&theme=tokyonight&count_private=true)
+<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSahota&layout=compact&theme=tokyonight) -->
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight" alt="AnmolSahota" /></p>
+<!--  ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&hide_border=true&theme=tokyonight&count_private=true) -->
 
 </div>
 
