@@ -1,65 +1,72 @@
-<img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" align="center"  />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" alt="Profile Animation" />
+</div>
 
- <h1 >Hi 👋, I'm Anmol Sahota</h1>
-<h2><p >
+<h1 align="center">Hi 👋, I'm Anmol Sahota</h1>
+<h2 align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
-</p>
- <br/></h2>
-## About Me :
+</h2>
 
-- 🔭 Passionate Full Stack Developer dedicated to creating efficient, continually enhancing skills.
-- 🌱 Masai School is where I obtained my training.
-- 🛠  I'm always seeking opportunities to expand my horizons & learn about the world around me.
-- 🖥️ My <a target="_blank" href="https://anmolsahota.github.io/">Portfolio</a> showcases my skills and accomplishments.
-- ⚡ Fun fact: I always start my day with a cup of code & a hearty breakfast of syntax errors.
-- 🗺️ Mumbai, Maharashtra
+## 🚀 About Me
+
+- 🔭 Passionate Full Stack Developer dedicated to creating efficient, scalable solutions.
+- 🌱 Graduated from **Masai School**, where I honed my development skills.
+- 🛠 I'm always seeking opportunities to learn and grow.
+- 💼 You can check out my [**Portfolio**](https://anmolsahota.github.io/) to see my work.
+- ⚡ Fun fact: I start my day with a cup of code and a hearty breakfast of syntax errors!
+- 🌍 Based in **Mumbai, Maharashtra**
 
 [![wakatime](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6.svg)](https://wakatime.com/@d61fed7b-cf12-4374-b3fc-69813c1eaed6)
 
+---
 
-## Connect with me :
+## 📫 Connect with Me
 
+<p>
+  <a href="mailto:anmolsahota05760@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
+  <a href="https://www.linkedin.com/in/anmol-sahota-438456250/"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
+</p>
 
-[![Gmail Badge](https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white&link=https://mailto:anmolsahota05760@gmail.com)](mailto:anmolsahota05760@gmail.com)&nbsp;
-[![Linkedin Badge](https://img.shields.io/badge/-linkedn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-sahota-438456250/)](https://www.linkedin.com/in/anmol-sahota-438456250/)&nbsp;
-<br/>
+---
 
+## 💼 Projects I Have Worked On
 
-## 👨🏻‍💻 Mostly Used Languages, Frameworks :
+| Project Name      | Description                                                                                               | Tech Stack                                 | Links                                                                                                  |
+|-------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------|
+| **Ezyshop**       | E-commerce platform with features like authentication, cart, and CRUD operations.                         | React.js, Redux, Chakra UI, JSON server    | [Live](https://my-app-lake-iota.vercel.app/) • [GitHub](https://github.com/NehaP0/splendid-quiver-7090/tree/main/my-app)   |
+| **Anthropologie** | Full-lifestyle shopping website offering exclusive clothing, accessories, and home décor.                 | React.js, Redux, Chakra UI, JSON server    | [Live](https://flame-two.vercel.app/) • [GitHub](https://github.com/AnmolSahota/hilarious-flame-4763)   |
+| **Trendy Shop**   | Multi-user E-commerce site with authentication, cart, and CRUD operations.                                | React.js, Redux, MongoDB, Express.js       | [Live](https://nemtrendyshop.vercel.app/) • [GitHub](https://github.com/AnmolSahota/celestial-card-4815)|
+| **Beauty BEBO**   | Website showcasing a variety of high-quality beauty products.                                               | HTML, CSS, JavaScript                      | [Live](https://steady-twilight-842d2e.netlify.app/) • [GitHub](https://github.com/AnmolSahota/gainful-swing-7555) |
 
+---
 
+## 🛠️ Technologies & Tools
 
-</img><img src="https://img.icons8.com/color/48/000000/html-5.png"/><img src="https://img.icons8.com/color/48/000000/css3.png"/><img src="https://img.icons8.com/color/48/000000/bootstrap.png"/><img src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">&nbsp;&nbsp;<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"><img src="https://img.icons8.com/color/48/000000/git.png"/>
-<img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png">&nbsp;<img height="30" src="https://cdn.worldvectorlogo.com/logos/postman.svg">
+<p align="center">
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+</p>
 
+---
 
+## 📈 GitHub Stats
 
-<br>
-
-## Visitors Count :
-
-![Count](https://profile-counter.glitch.me/AnmolSahota/count.svg)
-
-
-
-## Github Stats :
-<div style=" display:flex;justify-content:space-evenly; flex-wrap:wrap; gap:30px; align-item:center">
-
-<!-- <img src="https://github-profile-trophy.vercel.app/?username=AnmolSahota&theme=onedark&column=3&margin-w=15&margin-h=15"> -->
-
-
- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmolSahota&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="AnmolSahota" /></p>
-
-<!-- ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight&count_private=true) -->
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&locale=en&theme=tokyonight" alt="AnmolSahota" /></p>
-
-<!--  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnmolSahota&layout=compact&theme=tokyonight) -->
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight" alt="AnmolSahota" /></p>
-<!--  ![Anmol's github stats](https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&hide_border=true&theme=tokyonight&count_private=true) -->
-
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=AnmolSahota&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnmolSahota&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=AnmolSahota&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
+---
 
+## 🔢 Visitors Count
 
-
-
+<p align="center">
+  <img src="https://profile-counter.glitch.me/AnmolSahota/count.svg" alt="Visitor Count" />
+</p>
