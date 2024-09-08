@@ -2,41 +2,47 @@
   <img src="https://user-images.githubusercontent.com/39955420/147578199-56632b69-b3e8-4d9f-97e2-f046a1c2cba0.gif" alt="Profile Animation" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Anmol Sahota</h1>
-<h2 align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=FFFF&center=true&lines=Full+Stack+Web+Developer;1200%2B+Hours+of+Coding+Experience;Data+Structures+And+Algorithms"></a>
-</h2>
+<h1 align="center">Hello 👋, I'm Anmol Sahota</h1>
+
+<h3 align="center">
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?color=58a6ff&center=true&vCenter=true&lines=Full+Stack+Developer;1200%2B+Hours+Coding+Experience;Data+Structures+%26+Algorithms;Passionate+Learner;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Glad to see you here!-%F0%9F%8C%8D-blue?style=flat-square">
+</p>
+
+---
 
 ## 🚀 About Me
 
-- 🔭 Passionate Full Stack Developer dedicated to creating efficient, scalable solutions.
-- 🌱 Graduated from **Masai School**, where I honed my development skills.
-- 🛠 I'm always seeking opportunities to learn and grow.
-- 💼 You can check out my [**Portfolio**](https://anmolsahota.github.io/) to see my work.
-- ⚡ Fun fact: I start my day with a cup of code and a hearty breakfast of syntax errors!
+- 🔭 Passionate **Full Stack Developer** dedicated to creating efficient, scalable solutions.
+- 🛠 Always seeking opportunities to learn and grow.
+- 💼 Check out my [**Portfolio**](https://anmolsahota.github.io/) to see my work.
+- ⚡ Fun fact: I start my day with **code** and a side of **syntax errors**!
 - 🌍 Based in **Mumbai, Maharashtra**
 
 [![wakatime](https://wakatime.com/badge/user/d61fed7b-cf12-4374-b3fc-69813c1eaed6.svg)](https://wakatime.com/@d61fed7b-cf12-4374-b3fc-69813c1eaed6)
 
 ---
 
-## 📫 Connect with Me
+## 💼 Projects I Have Worked On
 
-<p>
-  <a href="mailto:anmolsahota05760@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/anmol-sahota-438456250/"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white"></a>
-</p>
+| **Project Name**   | **Description**                                                                                               | **Tech Stack**                                 | **Links**                                                                                                  |
+|--------------------|---------------------------------------------------------------------------------------------------------------|------------------------------------------------|------------------------------------------------------------------------------------------------------------|
+| **Ezyshop**        | E-commerce platform with features like authentication, cart, and CRUD operations.                             | React.js, Redux, Chakra UI, JSON server        | [Live](https://my-app-lake-iota.vercel.app/) • [GitHub](https://github.com/NehaP0/splendid-quiver-7090)     |
+| **Anthropologie**  | Full-lifestyle shopping website offering exclusive clothing, accessories, and home décor.                     | React.js, Redux, Chakra UI, JSON server        | [Live](https://flame-two.vercel.app/) • [GitHub](https://github.com/AnmolSahota/hilarious-flame-4763)       |
+| **Trendy Shop**    | Multi-user E-commerce site with authentication, cart, and CRUD operations.                                    | React.js, Redux, MongoDB, Express.js           | [Live](https://nemtrendyshop.vercel.app/) • [GitHub](https://github.com/AnmolSahota/celestial-card-4815)    |
+| **Beauty BEBO**    | Website showcasing a variety of high-quality beauty products.                                                   | HTML, CSS, JavaScript                          | [Live](https://steady-twilight-842d2e.netlify.app/) • [GitHub](https://github.com/AnmolSahota/gainful-swing-7555) |
 
 ---
 
-## 💼 Projects I Have Worked On
+## 📫 Connect with Me
 
-| Project Name      | Description                                                                                               | Tech Stack                                 | Links                                                                                                  |
-|-------------------|-----------------------------------------------------------------------------------------------------------|--------------------------------------------|--------------------------------------------------------------------------------------------------------|
-| **Ezyshop**       | E-commerce platform with features like authentication, cart, and CRUD operations.                         | React.js, Redux, Chakra UI, JSON server    | [Live](https://my-app-lake-iota.vercel.app/) • [GitHub](https://github.com/NehaP0/splendid-quiver-7090/tree/main/my-app)   |
-| **Anthropologie** | Full-lifestyle shopping website offering exclusive clothing, accessories, and home décor.                 | React.js, Redux, Chakra UI, JSON server    | [Live](https://flame-two.vercel.app/) • [GitHub](https://github.com/AnmolSahota/hilarious-flame-4763)   |
-| **Trendy Shop**   | Multi-user E-commerce site with authentication, cart, and CRUD operations.                                | React.js, Redux, MongoDB, Express.js       | [Live](https://nemtrendyshop.vercel.app/) • [GitHub](https://github.com/AnmolSahota/celestial-card-4815)|
-| **Beauty BEBO**   | Website showcasing a variety of high-quality beauty products.                                               | HTML, CSS, JavaScript                      | [Live](https://steady-twilight-842d2e.netlify.app/) • [GitHub](https://github.com/AnmolSahota/gainful-swing-7555) |
+<p>
+  <a href="mailto:anmolsahota05760@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/-gmail-black?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/anmol-sahota-438456250/"><img alt="LinkedIn" src="https://img.shields.io/badge/-linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
 
 ---
 
@@ -67,6 +73,6 @@
 
 ## 🔢 Visitors Count
 
-<p align="center">
+<p>
   <img src="https://profile-counter.glitch.me/AnmolSahota/count.svg" alt="Visitor Count" />
 </p>
